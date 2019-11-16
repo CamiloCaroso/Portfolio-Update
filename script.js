@@ -31,9 +31,9 @@ const gitImg = document.getElementById("gitImg");
 const rpsImg = document.getElementById("rpsImg");
 const bjImg = document.getElementById("bjImg");
 
-psImg.src = "images/psychic.jpg"
+psImg.src = "images/psychic.JPG"
 crImg.src = "images/crystals.jpg"
-trImg.src = "images/trivia.jpg"
-gitImg.src = "images/git.jpg"
-rpsImg.src = "images/rps.jpg"
-bjImg.src = "images/bj.jpg"
+trImg.src = "images/trivia.JPG"
+gitImg.src = "images/git.JPG"
+rpsImg.src = "images/rps.JPG"
+bjImg.src = "images/bj.JPG"
